@@ -1,0 +1,732 @@
+hostel 青旅
+accommodation 住宿
+venue 会场
+tutorial 个别指导
+statistics 统计
+metallurgy 冶金
+fair 公平的
+dismissal 解雇
+gear 齿轮
+pasture 牧场
+woodland 林地
+species 物种
+peers 同辈
+professionals 专业人士
+validity 有效性
+accident 事故
+testimony 证词
+cellulose 纤维素
+chandelier 吊灯
+initials 缩写
+tent 帐篷
+bladders 膀胱
+antenna 天线
+layout 布局
+refreshment 小吃
+toads 蟾蜍
+womb 子宫
+habitat 栖地
+dweller 居民
+leaflet 传单
+fuel 燃料
+variables 变量
+dishwasher 洗碗机
+grammar 语法
+interruption 中断
+poverty 贫穷
+textile 纺织
+ash 灰
+fountain 喷泉
+documentation 文档
+journalism 新闻
+spa 水疗
+hairdressers 理发师
+ingredients 成分
+core 核心
+digestive 消化的
+massage 按摩
+ratio 比率
+cord 线
+bark 树皮
+parachute 降落伞
+valve 阀门
+chimpanzees 黑猩猩
+dominance 优势
+nutshell 果壳
+binoculars 双筒望远镜
+Eskimo 爱斯基摩人
+athletic 运动员
+vibration 振动
+bulb 灯泡
+mud 泥浆
+reservoir 水库
+partner 合作者
+proofreading 校对
+ditch 沟
+fertilizer 肥料
+porcelain 瓷器
+cattle 牛
+plough 犁
+restroom 厕所
+judo 柔道
+fiancée 未婚妻
+reconstruction 重建
+failure 失败
+voicemail 语音箱
+stripe 条纹
+Mars 火星
+squirrel 松鼠
+invasion 入侵
+toleration 容忍
+polytechnic 理工院校
+hectares 公顷
+kangaroo 袋鼠
+preservation 保护
+cosmetics 化妆品
+refrigerators 冰箱
+hallway 走廊
+mite 螨虫
+hive 蜂巢
+virus 病毒
+personnel 员工
+deposit 存款，押金
+pot 锅
+jewelry 珠宝
+cabin 小屋
+calendar 日历
+teapot 茶壶
+gloves 手套
+necklace 项链
+niece 侄女
+footwear 鞋子
+campaign 竞选
+centralization 集中
+slug 动作迟缓
+worms 虫子
+indicator 指示器
+grape 葡萄
+exposure 曝光
+trays 托盘
+apron 围裙
+sun cream 防晒霜
+pyramid 金字塔
+commodity 商品
+whales 鲸鱼
+absence 缺席
+workforce 劳动力
+cupboard 橱柜
+generation 概括
+voting 投票
+dialogue 对话
+regulator 调节器
+incubator 孵化器
+rivals 对手
+candle 蜡烛
+congestion 拥塞
+categories 类别
+twilight 黄昏
+qualification 资格
+van 厢式货车
+competitors 对手
+labor 劳动
+camel 骆驼
+sprain 扭伤
+aspirin 阿司匹林
+lighting 照明
+stage-set 舞美
+graffiti 涂鸦
+sticks 棒
+bins 垃圾箱
+sauna 桑拿
+landscape 景观
+helmet 头盔
+bronze 青铜
+facilities 设备
+calorie 卡路里
+wallet 钱包
+dinosaur 恐龙
+moa 恐鸟
+wreckage 残骸
+investigation 调查
+tortoise 乌龟
+Cantonese 粤语
+purchase 购买
+forestry 林业
+literature 文学
+irrigation 灌溉
+nutrient 营养
+erosion 侵蚀
+fishery 渔业
+innocence 清白
+amber 琥珀
+resin 树脂
+fungi 真菌
+advertisement 广告
+allergy 过敏
+alley 小道
+allowance 津贴
+alternation 改变
+analysis 分析
+analyst 分析家
+ankle 脚踝
+Antarctica 南极洲
+ape 猿
+appearance 外表
+architect 建筑师
+architecture 建筑
+aristocrat 贵族
+atlas 地图册
+audience 观众
+auditorium 礼堂
+bachelor 学士
+badminton 羽毛球
+baldness 秃头
+bases 基地（【区】basis）
+bath （【区】bus）
+beard 胡子
+benefit 优势
+bibliography 参考书
+blast 爆炸
+blouse 女式衬衫
+bone （【区】born）
+brochures 小册子
+burger 汉堡
+burglar 夜盗
+cab 出租车
+café 咖啡厅
+cafeteria 食堂
+Cambridge 剑桥
+capsule 胶囊
+carpet 地毯
+carving 雕刻
+cashier 出纳
+castle 城堡
+cathedral 大教堂
+chair 椅子
+chancellor 大学校长
+checklist 核对清单
+chemist's 药店
+chest 胸部
+chin 下巴
+cliffs 悬崖
+clinic 诊所
+coast 海边
+code （【区】cold）
+coke 可乐
+cola 可乐
+colleague 同事
+commercials 广告
+commuter 通勤者
+conqueror 征服者
+contaminants 污染物
+controversy 争议
+corpse 尸体
+correspondence 通信
+cottage 小屋
+cough 咳嗽
+council 委员会
+committee 委员会
+creek 小溪
+crocodile 鳄鱼
+cutlery 餐具
+deadline 截止期
+description 描述
+desert 沙漠
+dining 吃饭
+discipline 纪律
+discos 迪斯科
+dispute 争端
+donkey 驴子
+draft 草稿
+eagle 鹰
+encyclopedia 百科全书
+epidemic 流行病
+ethic 道德
+excitement 兴奋
+existence 存在
+expansion 扩张
+experiment 实验
+explanation 解释
+exposition 博览会
+falcon 隼
+fare （【音同】fair）
+flooding 泛滥
+flu 流感（【音同】flew）
+fortnight 14天
+foyer 门厅
+gallery 画廊
+garage 车库
+garbage 垃圾
+germ 细菌
+gulf 海沟
+handout 讲义
+heroine 女主
+hint 暗示
+insomnia 失眠
+institute 机构
+institution 机构
+investigator 投资人
+jaw 下巴
+kelp 海藻
+kiosk 售货亭
+koala 考拉
+landmark 路标
+lava 火山岩
+library 图书馆
+lounge 休息厅
+mane 鬃毛
+marsh 沼泽
+mat 脚垫
+mileage 里程表
+mosquito 蚊子
+moustache 小胡子
+naught 零
+occupant 占有人
+oculist 眼科医生
+ointment 药膏
+overdraft 透支
+Oxford 牛津
+parcel 包裹
+patient 病人
+pedestrian 行人
+pensioners 领养老金人
+performer 执行者
+perk 额外收入
+petroleum 石油
+philosopher 哲学家
+potteries 陶器
+precision 精密度
+preference 偏爱
+preposition 介词
+president 总统
+prospectus 招生简章
+protein 蛋白质
+psychiatrist 精神病家
+psychologist 心理家
+psychotherapy 心理疗法
+purse 钱包
+quarter 1/4的
+radar 雷达
+rainfall 降雨
+recipe 食谱（【音】）
+referee 裁判
+reflectance 反射比
+refuge 避难所
+religion 宗教（【音】）
+renewal 更新（n.）
+repetition 重复
+safari 野生动物园
+sandal 凉鞋
+satellite 卫星
+scandal 丑闻
+scent 气味
+secretary 秘书
+servant 仆人
+shoplifters 扒手
+slang 俚语
+slip 滑动，纸片
+south 南方的
+sponsor 赞助者
+stomach 胃
+subsidy 津贴
+syndicate 财团
+syrup 糖浆
+jargon 术语
+theory 理论
+toaster 烤面包机
+tram 有轨电车
+trailer 预告片
+tribute 贡品，悼礼
+Trinity 三一学院
+trolley 电车
+tunnels 隧道
+umpire 裁判
+utensil 器皿
+variety 种类
+velvet 天鹅绒
+vet 兽医
+vinegar 醋
+visitor 访问者
+waist 腰
+wasp 黄蜂
+wasteland 荒地
+wetland 湿地
+wound 伤口
+yoga 瑜伽
+labor-consuming 费力的
+vocal 声乐的
+insufficient 不足的
+exotic 异国的
+innovative 创新的
+contributory 促成的
+imaginable 可想象的
+prolific 多产的
+cautious 谨慎的
+Latin 拉丁的
+permanently 永恒地
+accessible 易接近的
+adequate 充足的
+advisable 明智的
+ambiguous 有歧义的
+archaeological 考古的
+ascending 上升的
+attentive 注意的
+buried 埋葬（p）
+distinct 明显的
+dominant 主要的
+predominant 主要的
+prominent 主要的
+elementary 基础的
+enthusiastic 热情的
+existent 现行的
+famed 著名的
+fundamental 基础的
+hazardous 有危险的
+herbivorous 食草的
+intermediate 中级的
+irritable 易怒的
+isolated 与世隔绝的
+martial 武术的，战争的
+mature 成熟的（【音】）
+moderate 中度的
+neighboring 邻近的
+ 
+noble 贵族的
+non-active 灭活的
+optic 光学的
+political 政治的（【音】）
+relevant 有关的
+reliable 可靠的
+resistant 抵抗的
+sacked 被辞的
+satisfactory 满意的
+serial 连续的
+soundproof 隔音的
+southern 南方的
+spiral 螺旋的（【音】）
+stout 矮胖的
+theoretical 理论的
+unanimous 全体一致的
+scarcely 几乎不
+
+disciplinary measure 纪律措施
+automatic gear type 自动挡类型
+training programme 训练计划
+closure inquiry 封闭调查
+semi-synthesized materials 半合成材料
+pony riding 骑马
+salt concentration 盐浓度
+growth spurt 急剧增长
+carbon emission 碳排放
+well-equipped suite（【音】）
+cookery book 烹饪书
+off-peak 非高峰的
+Tomb Raider 古墓丽影
+detached house 独立式住宅
+ski resort 滑雪胜地
+cone head 锥头
+video camera 镜头
+medical stitches 医学缝合
+leaking pipes 漏管道
+museum archives 博物馆档案馆
+orientation session 新生会议
+self-assessment 自我评估
+peak season 旺季
+aerial photographs 航拍
+gold coast 黄金海岸
+ice rink 溜冰场
+Persian dye 波斯染料
+bumble bee 大黄蜂
+beach liens 沙滩留置权
+nomad clothing 游牧服饰
+plate safety shield 安全防护罩
+flour outlet 面粉出口
+grain shatter 谷物破碎
+fossil fuels 化石燃料
+global roaming service 全球漫游服务
+forest valley campsite 森林谷营地
+banknote insufficient 钞票不足
+legal legislation 法律法规
+refreshment and souvenir 和纪念品
+competition 竞争
+improvement 提升
+Roman invasion 罗马入侵
+snack kit 快餐盒
+stout-legged moa 粗腿恐鸟
+body fluids 体液
+original vacuum problem 原始真空问题
+reusable bag 复用袋
+maintenance equipment 维护设备
+taster sessions 试听课
+a pair of glasses 一副眼镜
+admission card 借书卡
+agrarian reform 土改
+air shuttle bus 机场巴士
+antibiotics and acid 抗生素和酸
+applied mathematics 应用数学
+architecture style 建筑风格
+Arctic Ocean 北冰洋
+Atlantic Ocean 大西洋
+assistant professor 副教授
+assume the responsibility 承担责任
+Bachelor's degree 学士学位
+barbecue set 烤架
+barren land 贫瘠的土地
+be prone to 倾向于做
+book in advance 预定
+botanical garden 植物园
+British Council 英国使馆处
+bus pass 月票
+cable car 缆车
+candles 蜡烛
+call slip 借书证
+car model 车模型
+car rental 租车
+comment card 注解卡片
+cassette recorders 盒式录音机
+central heating 中央供暖
+social conformity 社会从众性
+circus performance 马戏团表演
+conquerors 征服者
+coarse texture 粗糙的质地
+college close-up 大学特写
+common residence 普通住宅
+conference reports 会议报告
+connecting flight 转机
+contact lenses 隐形眼镜
+coping with stress 缓解压力
+cough mixture 止咳药
+customs service 海关
+dateline 日界线
+date of expiry 过期时间
+date slip 期限单
+downward trend下跌趋势
+dropout rate 辍学生比例
+dress code 衣着要求
+dress rehearsal 彩排
+drop-off site 垃圾点
+El Nino 厄尔尼诺现象
+electricity bill 电费
+environmentally-friendly 生态友好
+extension number 分机号
+ethical film 伦理片
+farewell party 告别会
+feel one's pulse 号脉
+field system 工地系统
+field trip 实地考察（field work）
+financial affairs 财务
+fire drill 火警演习
+fire blanket 灭火毯
+good steering 良好操作
+high wind 大风
+hard-hoofed animals 硬蹄动物
+hall of residence 英国学生宿舍
+financial muscles 经济实力
+healthcare 医疗保健
+high-rise building 高层建筑
+hothouse effect 温室效应
+ice curling 冰壶
+injection of vaccine 疫苗注射
+insect haunting 虫灾
+instant coffee 速溶咖啡
+internal clock 生物钟
+Kungfu 功夫
+life expectancy 预期寿命
+lecture theater 阶梯教室
+loudspeaker 喇叭
+Master Card 万事达信用卡
+military museum 军事博物馆
+self-sufficient 自足的
+OHPEN 白板笔
+oral defense 答辩
+out circulation 借出了
+hitchhike 搭便车旅行
+paddling pool 戏水池
+palm tree 棕榈树
+paper jam 复印机塞纸
+pine tree 松树
+pink slip 解雇通知书
+pop test 抽考
+reading hits 阅读技巧
+reference stack 书库
+refresher course 进修课
+registered mail 挂号信
+residential college 寄宿大学
+review promptly 立刻复习
+row house 联排房屋（terraced house）
+sea otter 水獭
+sea urchin 海胆
+sedentary lifestyle 久坐的
+self-access lab 自学实验室
+sensible exercise 合适的锻炼
+sick note 病假条
+sky dome 穹顶
+slide presentation 幻灯片演讲
+sore throat 嗓子痛
+spare parts 备用零件
+space shuttle 飞船
+sports articles 体育用品
+spinose plants 有刺植物
+steak set 牛排刀叉
+stuffed nose 鼻塞
+stuffed toys 毛绒玩具
+suntan block 防晒
+summary report 总结报告
+teaching syllabus 教学大纲
+terrestrial heat 地热
+tertiary education 高等教育
+the Milky Way 银河
+tilled land 耕地
+timetable 时间表
+Town Hall 市政厅
+University of Wollongong 卧龙岗大学
+urban area 城市地区
+wholesale 批发的
+World Expo 世博会
+wretched boat 废弃船
+your own embassy 本国使馆
+yellow fever 黄热病
+recommendation 建议
+annex 附属建筑
+attendance 出席
+barrier 屏障
+cannibal 食同类者
+cottage 小屋
+cramming 死记硬背
+dissertation 学位论文
+hippo 河马
+hoover 真空吸尘器
+irritation 激怒
+likelihood 可能性
+narrator 解说员
+questionnaire 调查问卷
+robber （【音】rubber）
+concession 让步
+terraced 露天的
+caravan 房车
+navigation 导航
+helicopter 直升机
+painkillers 止痛药
+voucher 代金券
+moderate 温和的
+child-mining 育儿
+branch manager 部门经理
+coral reef 珊瑚礁
+old-fashion exterior 落俗外表
+road runners 哔哔鸟
+grocery store 杂货店
+accessory 配饰
+egg cartons 装蛋盒
+canoe 独木舟
+ferries 摆渡
+flamingo 火烈鸟
+vegetation 植被
+calligraphy 书法
+funnel 漏斗
+rendezvous 集会地点
+vetting 审核
+water-ride 激流勇进
+rollercoaster 过山车
+anniversary 周年纪念
+all-in 包含全部的
+hovercraft 气垫船
+roadworthy 适合上路的
+after formality 寒暄后
+quarantine service 检疫服务
+craft fair 集市
+breakdown 坏掉
+garden pot 花盆
+tap water 自来水
+black swans 黑天鹅
+total block 防晒霜
+board games 桌游
+interior design 室内设计
+venue change 地点转移
+stunning view 美丽的景色
+shuttle bus 班车
+trial test 模考
+provisional license 临时证件
+pretzel factory 饼干工厂
+ink cartridge 打印机墨盒
+meadow campsite 草地露营点
+green lounge 绿色躺椅
+portfolio 文件夹
+verbalization 用语言表达
+evaporation 蒸发
+appendices 附件
+parliament 议会，国会
+cardiovascular 心血管的
+coverage-lettering 新闻字体
+ground plan 平面图，草案
+global listening 宏观听力
+braking system 刹车系统
+late submission 晚提交
+company premises 公司地址
+borrowed language 外来语
+numeracy skill 计算能力
+mould 模具
+eco-cement 生态水泥（水泥【音】）
+germs 细菌
+cognition 认知
+lid 盖子
+mechanism 机制（【音】）
+cost-effective 性价比高的
+pirates 海盗
+odor 气味
+gill 鱼鳃
+molt 脱毛
+guessing 猜测
+lizard 蜥蜴
+knife handle 刀柄
+government election 政府选举
+short stroke 短行程，短笔画
+broken axe 坏斧子
+vertical cabin 垂直座舱
+durable contracture 持久痉挛
+presence rate 出勤率
+hospitality industry 酒店管理 
+僵尸词
+irrigation 灌溉
+architect 建筑师
+architecture 建筑
+jewelry 珠宝
+contaminants 污染物
+committee 委员会
+description 描述
+experiment 实验
+legitimate 使合法
+predominant 主要的
+support 支持
+prominent 显眼的杰出的
+institute 机构
+institution 机构
+commit 犯
+measure 测量
+philosopher 哲学家
+psychiatrist 精神病家
+psychologist 心理家
+psychotherapy 心理疗法
+physiology 生理
+stomach 胃
+theory 理论
+insufficient 不足的
+archaeological 考古的
+enthusiastic 热情的
+intermediate 中级的
+satisfactory 满意的
+theoretical 理论的
+carbon emission 碳排放
+video camera 镜头
+self-assessment 自我评估
+aerial photographs 航拍
+refreshment and souvenir 和纪念品
+competition 竞争
+improvement 提升
+maintenance 维护
+admission card 借书卡
+assistant professor 副教授
+cable car 缆车
+cassette 磁带
+category 种类
+conference 会议
+decision 决定
